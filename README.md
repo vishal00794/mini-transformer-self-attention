@@ -169,7 +169,7 @@ We compare:
 * Proves core LLM ideas without GPUs
 * Shows *mechanism*, not just metrics
 * Bridges RNNs → Transformers
-* Ideal for interviews, blogs, and portfolios
+
 
 ---
 

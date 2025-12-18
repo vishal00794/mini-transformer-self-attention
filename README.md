@@ -1,5 +1,5 @@
 # mini-transformer-self-attention
-# 🧠 Attention Is All You Need (Even on CPU)
+# Attention Is All You Need (Even on CPU)
 
 This project demonstrates **why attention—not scale—is the key mechanism behind modern Large Language Models (LLMs)**. Instead of training a huge transformer, we build **small, CPU-trainable models** and isolate the *exact contribution* of attention.
 
@@ -19,11 +19,7 @@ To answer one core question:
 
 > *Why does attention make language models dramatically better—even when models are small and trained on CPU?*
 
-This repo is designed to be:
 
-* **Educational** (every step explained)
-* **Reproducible** (runs on Colab / CPU)
-* **Portfolio-ready** (clean comparisons + visual evidence)
 
 ---
 

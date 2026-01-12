@@ -13,7 +13,7 @@ The only difference between models is the **attention mechanism**. Same data, sa
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 To answer one core question:
 
@@ -23,7 +23,7 @@ To answer one core question:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * **IMDb Movie Reviews (25k samples)**
 * Binary sentiment classification (positive / negative)
@@ -37,7 +37,7 @@ Preprocessing:
 
 ---
 
-## 🧱 Model Architectures
+##  Model Architectures
 
 ### 1️⃣ Baseline: BiLSTM (No Attention)
 
@@ -119,7 +119,7 @@ This is **true Transformer-style attention**.
 
 ---
 
-## 🔍 What We Compare
+##  What We Compare
 
 All models are trained with:
 
@@ -138,7 +138,7 @@ We compare:
 
 ---
 
-## 📈 Key Results (Qualitative)
+##  Key Results (Qualitative)
 
 ### No Attention
 
@@ -164,7 +164,7 @@ We compare:
 
 ---
 
-## 🔥 Why This Project Matters
+##  Why This Project Matters
 
 * Proves core LLM ideas without GPUs
 * Shows *mechanism*, not just metrics
@@ -173,7 +173,7 @@ We compare:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open in **Google Colab (CPU is enough)**
 2. Install dependencies (PyTorch)
@@ -182,7 +182,7 @@ We compare:
 
 ---
 
-## 🧠 Takeaway
+##  Takeaway
 
 > You don’t need billions of parameters to understand why LLMs work.
 > Attention alone—properly isolated—explains most of the magic.
